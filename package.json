@@ -1,6 +1,6 @@
 {
   "name": "@adopisowifi/ng-http-error",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This module provides `httpError` - function that extracts error string from http response object",
   "main": "ado-ng-http-error.js",
   "scripts": {
