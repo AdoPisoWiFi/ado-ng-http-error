@@ -4,8 +4,8 @@ This module provides `httpError` - function that extracts error string from http
 
 # Usage
 
-Module name: `ado-ng-http-error`
-Service name: `httpError`
+- Module name: `ado-ng-http-error`
+- Service name: `httpError`
 
 ```javascript
 $http.get('/url').catch(function (res) {
