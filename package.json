@@ -1,0 +1,23 @@
+{
+  "name": "@adopisowifi/ng-http-error",
+  "version": "0.0.1",
+  "description": "This module provides `httpError` - function that extracts error string from http response object",
+  "main": "ado-ng-http-error.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdoPisoWiFi/ado-ng-http-error.git"
+  },
+  "keywords": [
+    "adopisowifi",
+    "http-error"
+  ],
+  "author": "AdoPisoWiFi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdoPisoWiFi/ado-ng-http-error/issues"
+  },
+  "homepage": "https://github.com/AdoPisoWiFi/ado-ng-http-error#readme"
+}

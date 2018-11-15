@@ -1,0 +1,21 @@
+{
+  "name": "ado-ng-http-error",
+  "main": "ado-ng-http-error.js",
+  "homepage": "https://github.com/AdoPisoWiFi/ado-ng-http-error",
+  "authors": [
+    "AdoPisoWiFi"
+  ],
+  "description": "This module provides `httpError` - function that extracts error string from http response object",
+  "keywords": [
+    "adopisowifi",
+    "http-error"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
