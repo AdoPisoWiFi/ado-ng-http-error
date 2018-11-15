@@ -1,6 +1,6 @@
 # Extracts error message from http response
 
-This module provides `httpError` - function that extracts error string from http response object
+This module provides `httpError` service - function that extracts error string from http response object
 
 # Usage
 
