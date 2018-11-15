@@ -4,7 +4,7 @@ This module provides `httpError` service - function that extracts error string f
 
 # Usage
 
-- Module name: `ado-ng-http-error`
+- Module name: `ado.http-error`
 - Service name: `httpError`
 
 ```javascript
