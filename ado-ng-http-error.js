@@ -1,6 +1,6 @@
 
 angular
-  .module('ado-ng-http-error', [])
+  .module('ado.http-error', [])
   .service('httpError', ['$q', function ($q) {
 
     return function httpError(res) {
